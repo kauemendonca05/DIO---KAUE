@@ -1,5 +1,7 @@
 # DIO---KAUE
 Olá! Eu sou o Kaue 👋
+
+
 🚀 Tecnologias e Conhecimentos:
 ° SQL
 ° Power BI
