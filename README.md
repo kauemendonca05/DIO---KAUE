@@ -1,17 +1,8 @@
-# DIO---KAUE
-Olá! Eu sou o Kaue 👋
+# Olá! Eu sou o Kaue 👋
 
 
 🚀 Tecnologias e Conhecimentos:
-° SQL
-° Power BI
-° Azure
-° CSS
-° HTML
-° Java
-° CiberSegurança
-° Programação em nuvem
-° Inteligência Artificial
+SQL, Power BI, Azure, CSS, HTML, Java, CiberSegurança, Programação em nuvem e Inteligência Artificial.
 
 📊 Sobre Mim:
 Interessado em aprender novas tecnologias e novas resoluções de problemas. Estou constantemente buscando evoluir através de cursos e laboratórios, com foco em aplicar conhecimentos em análise de vulnerabilidades, gestão de riscos, criptografia, prevenção e resposta a incidentes cibernéticos e segurança ofensiva e defensiva.
